@@ -61,6 +61,7 @@ To get started with this repository, follow the steps below:
   cd frontend
   npm run dev
   ```
+  This Code is Coded by KARAN TIWARI (coderlife404@gmail.com)
 
 
 7. **Access the Application**:
